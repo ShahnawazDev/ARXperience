@@ -1,0 +1,11 @@
+Model Information:
+* title:	Exploding cheeseburger
+* source:	https://sketchfab.com/3d-models/exploding-cheeseburger-414118f373864247b74640e09b342a2d
+* author:	alfredonicolasalarcon (https://sketchfab.com/alfredonicolasalarcon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Exploding cheeseburger" (https://sketchfab.com/3d-models/exploding-cheeseburger-414118f373864247b74640e09b342a2d) by alfredonicolasalarcon (https://sketchfab.com/alfredonicolasalarcon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
